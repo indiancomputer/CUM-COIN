@@ -34,13 +34,13 @@ const Features: React.FC = () => {
           variants={fadeInUp}
           className="text-4xl font-bold text-center text-[#ffd543] mb-8 font-rem"
         >
-          Unique Features of Fries Coin
+          Unique Features of Quokkas Coin
         </motion.h1>
         <motion.p
           variants={fadeInUp}
           className="text-lg text-gray-300 font-rem"
         >
-          Discover the unique features that make Fries Coin stand out in the
+          Discover the unique features that make Quokkas Coin stand out in the
           cryptocurrency space.
         </motion.p>
       </motion.div>
@@ -71,17 +71,17 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Decentralized Governance
+                    Decentralized Autonomous Chain-Fusion Canister Network Nervous System Technology
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
                     <span className="text-[#ffd543] font-bold font-rem">
-                      FRIES
+                      QUOKKA
                     </span>{" "}
                     holders participate in decentralized governance through
-                    proposals and voting mechanisms on the Internet Computer.
+                    the Indian Computer's alien technology.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -94,7 +94,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Scalability and Security
+                    Scalablity and Securrty
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -102,10 +102,10 @@ const Features: React.FC = () => {
                   >
                     Leveraging the{" "}
                     <span className="text-[#ffd543] font-bold">
-                      Internet Computer's
+                      Indian Computer's
                     </span>{" "}
-                    scalability and security features ensures efficient and
-                    secure token operations.
+                    scalabelity and security features ensure effishent and
+                    secure token operashins.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -118,7 +118,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Community Building and Adoption
+                    Comnity Building and Adopting
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -126,9 +126,10 @@ const Features: React.FC = () => {
                   >
                     Develop partnerships with restaurants and food outlets to
                     accept{" "}
-                    <span className="text-[#ffd543] font-bold">FRIES</span> as
-                    payment. Implement loyalty programs and incentives to
-                    encourage adoption and usage of Fries Coin in the community.
+                    <span className="text-[#ffd543] font-bold">Quokka</span> as
+                    payment when buying Quokkas. Implement loyalty programs and 
+                    incentives to encourage adoption and usage of Fries Coin in 
+                    the community.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -141,7 +142,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Environmental Sustainability
+                    Envirmental Sustainablity
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -149,9 +150,9 @@ const Features: React.FC = () => {
                   >
                     Explore eco-friendly practices for token operations on the{" "}
                     <span className="text-[#ffd543] font-bold">
-                      Internet Computer
+                      Indian Computer
                     </span>
-                    , aligning with sustainability initiatives.
+                    , aligning with sustainabelity inishiatives.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -169,7 +170,7 @@ const Features: React.FC = () => {
             variants={fadeInUp}
             className="text-3xl font-bold text-center text-[#ffd543] mb-8 font-rem"
           >
-            Development Features
+            Devlopment Features
           </motion.h2>
           <motion.div
             initial="hidden"
@@ -184,16 +185,16 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Developer Integrations
+                    Devloper Integrations
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Integrate Fries Coin with{" "}
+                    Integrate Quokka Coin with{" "}
                     <span className="text-[#ffd543] font-bold">DFINITY's</span>{" "}
-                    Internet Computer Protocol for seamless development and
-                    deployment of decentralized applications.
+                    Indian Computer Protocol for seamless devlopment and
+                    deployment of decentralized applicashins.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -211,7 +212,7 @@ const Features: React.FC = () => {
             variants={fadeInUp}
             className="text-3xl font-bold text-center text-[#ffd543] mb-8 font-rem"
           >
-            Future Features
+            Futur Featurs
           </motion.h2>
           <motion.div
             initial="hidden"
@@ -232,10 +233,9 @@ const Features: React.FC = () => {
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Launch an NFT marketplace where users can buy, sell, and
-                    trade{" "}
-                    <span className="text-[#ffd543] font-bold">FRIES</span>
-                    -themed NFTs, promoting community engagement and creativity.
+                    Launch an NFT marketplace where users can buy but not sell{" "}
+                    <span className="text-[#ffd543] font-bold">QUOKKAS</span>
+                    -themed NFTs, promoting community engagement and exit liquidity.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -248,15 +248,15 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    DeFi Integrations
+                    DeFi Integrashins
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Integrate with decentralized finance (DeFi) platforms to
-                    offer staking, lending, and borrowing of{" "}
-                    <span className="text-[#ffd543] font-bold">FRIES</span>{" "}
+                    Integrate with decentralised finance (DeFi) platforms to
+                    allow us to rugpull all{" "}
+                    <span className="text-[#ffd543] font-bold">QUOKKA</span>{" "}
                     tokens.
                   </CardItem>
                 </CardBody>
@@ -278,8 +278,8 @@ const Features: React.FC = () => {
                   >
                     Ensure cross-chain compatibility with other blockchains like
                     Ethereum and Binance Smart Chain, enabling{" "}
-                    <span className="text-[#ffd543] font-bold">FRIES</span> to
-                    be used across multiple platforms.
+                    <span className="text-[#ffd543] font-bold">QUOKKA</span> to
+                    fade into crypto obscurity.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -292,7 +292,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Advanced Analytics
+                    Advanced Anal ytics
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -300,7 +300,7 @@ const Features: React.FC = () => {
                   >
                     Provide advanced analytics and insights for users and
                     developers to track the performance and usage of{" "}
-                    <span className="text-[#ffd543] font-bold">FRIES</span>{" "}
+                    <span className="text-[#ffd543] font-bold">QUOKKA</span>{" "}
                     tokens.
                   </CardItem>
                 </CardBody>
