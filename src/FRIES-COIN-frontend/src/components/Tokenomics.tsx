@@ -10,9 +10,9 @@ import {
 import sauceImage from "../../public/sauce.png";
 
 const data = [
-  { name: "Early Contributors and Team", value: 9450000 },
-  { name: "Community Building and Rewards", value: 1050000 },
-  { name: "Development Fund", value: 1050000 },
+  { name: "Rugpull Allocation", value: 9450000 },
+  { name: "Liquidity", value: 105000 },
+  { name: "Team Allocation", value: 1050000 },
 ];
 
 const COLORS = ["#FFBB28", "#FF8042", "#00C49F"];
@@ -56,13 +56,13 @@ const Tokenomics: React.FC = () => {
         </h2>
         <div className="mt-10">
           <p className="mt-4 text-2xl text-[#ffd543] font-extrabold text-center font-rem">
-            <strong className="text-white">Total Supply:</strong> 21 Million
-            $FRYS
+            <strong className="text-white">Total Supply:</strong> 69 Billion
+            $QUOKKA
           </p>
         </div>
         <div className="mt-10">
           <h3 className="text-2xl font-bold text-[#ffd543] font-rem">
-            Initial Distribution
+            Inishal Distribution
           </h3>
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="w-full md:w-1/2">
@@ -99,7 +99,7 @@ const Tokenomics: React.FC = () => {
                   <strong className="text-[#ffd543]">
                     PoUW Consensus Mechanism:
                   </strong>{" "}
-                  Fries Coin operates on the Internet Computer blockchain,
+                  Quokkas Coin operates on the Internet Computer blockchain,
                   utilizing the PoUW consensus mechanism.
                 </li>
                 <li>
@@ -111,16 +111,16 @@ const Tokenomics: React.FC = () => {
                       <span>Genesis Block:</span>
                       <ul className="list-inside list-item pl-4">
                         <li>
-                          Early Contributors and Team: 45% (9,450,000 FRIES)
+                          Rugpull Allocation: 45% (9,450,000 FRIES)
                         </li>
                         <li>
-                          Each team member receives: 859,090.91 FRIES (9,450,000
-                          FRIES / 11)
+                          Each team member receives: 859,090.91 QUOKKA (9,450,000
+                          QUOKKA / 11)
                         </li>
                         <li>
-                          Community Building and Rewards: 5% (1,050,000 FRIES)
+                          Liquidity: 0.5% (105,000 FRIES)
                         </li>
-                        <li>Development Fund: 5% (1,050,000 FRIES)</li>
+                        <li>More Team Allocation: 5% (1,050,000 FRIES)</li>
                       </ul>
                     </li>
                   </ul>
@@ -128,7 +128,7 @@ const Tokenomics: React.FC = () => {
                 <li>
                   <strong className="text-[#ffd543]">Mining Rewards:</strong>{" "}
                   Participants contribute computational resources to the network
-                  and are rewarded with FRIES tokens.
+                  and are rewarded with QUOKKA tokens.
                 </li>
               </ul>
             </div>
