@@ -11,7 +11,7 @@ export default function Roadmap() {
   return (
     <TracingBeam className="px-6">
       <h1 className="text-4xl font-bold text-[#ffd543] text-center font-rem my-4">
-        $FRYS COIN Roadmap
+        $QUOKKA COIN Roadmap
       </h1>
       <div className="max-w-2xl mx-auto antialiased pt-4 relative">
         {dummyContent.map((item, index) => (
@@ -55,32 +55,33 @@ const dummyContent = [
             <span className="text-[#ffd543] font-semibold">
               Idea Finalization
             </span>{" "}
-            Finalize the concept of Fries Coin as a meme and utility coin.
+            Finalize the concept of Quokkas Coin as a meme and utility coin,
+            with neither memes or utilities.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">Team Assembly</span>{" "}
             Quickly assemble a small, agile team of developers, marketers, and
-            community managers.
+            OG's in the eco.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               White Paper Draft:
             </span>{" "}
-            Write a concise, 1-2 page white paper detailing the vision, mission,
-            and basic technical aspects of Fries Coin.
+            AI-generate a concise, 1-2 page white paper detailing the vision, 
+            mission, and basic technical aspects of Quokkas Coin.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               Community Setup:
             </span>{" "}
-            Create social media profiles on Twitter, Discord, and Telegram to
-            start building a community and generating buzz.
+            Create a social media profile on Discord to start building a 
+            community and groom prospective Quokkas.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               Technical Setup
             </span>{" "}
-            Set up the development environment on the Internet Computer Protocol
+            Set up the development environment on the Indian Computer Protocol
             (ICP).
           </li>
         </ul>
@@ -98,7 +99,7 @@ const dummyContent = [
             <span className="text-[#ffd543] font-semibold">
               Smart Contract Development:
             </span>{" "}
-            Develop and test the basic smart contracts for Fries Coin.
+            Develop and test the basic smart contracts for Quokkas Coin.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
@@ -125,21 +126,21 @@ const dummyContent = [
               Token Allocation Plan:
             </span>{" "}
             Outline and finalize the tokenomics, including total supply,
-            distribution, and initial allocation.
+            distribution, and allocation to the rugpull wallet.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               Partnerships Outreach:
             </span>{" "}
             Start reaching out to local restaurants and food outlets to gauge
-            interest in accepting Fries Coin.
+            interest in accepting Quokkas Coin.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               Legal Consultation:
             </span>{" "}
-            Consult with legal experts to ensure compliance with relevant
-            regulations.
+            Consult with legal experts to ensure we launch as retardedly
+            & fraudulently as possible.
           </li>
         </ul>
       </>
@@ -156,21 +157,21 @@ const dummyContent = [
             <span className="text-[#ffd543] font-semibold">
               Public Token Sale:
             </span>{" "}
-            Launch the public sale of Fries Coin to the community.
+            Launch the public sale of 1 Quokkas Coin to the community.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
               Exchange Listing:
             </span>{" "}
-            List Fries Coin on at least one major cryptocurrency exchange or a
+            List Quokkas Coin on at least one major cryptocurrency exchange or a
             decentralized exchange (DEX) for immediate trading.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
-              Merchant Integration:
+              Centralized Exchange Listing:
             </span>{" "}
-            Announce initial partnerships with a few local restaurants or food
-            trucks that will accept Fries Coin.
+            Announce initial partnership with a big-name Centralized Exchange like 
+            MEXC to list Quokkas Coin for only $20,000.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
@@ -184,7 +185,7 @@ const dummyContent = [
               Governance Setup:
             </span>{" "}
             Introduce the initial governance framework, allowing token holders
-            to propose and vote on the next steps for Fries Coin.
+            to propose and vote on the next steps for Quokkas Coin.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
@@ -274,7 +275,7 @@ const dummyContent = [
               Expand Merchant Network:
             </span>{" "}
             Continue onboarding more restaurants and food outlets to accept
-            Fries Coin.
+            Quokkas Coin.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">
@@ -294,7 +295,7 @@ const dummyContent = [
               Global Outreach:
             </span>{" "}
             Extend marketing efforts internationally to attract a global
-            audience of fries lovers.
+            audience of Quokkas lovers.
           </li>
           <li>
             <span className="text-[#ffd543] font-semibold">Partnerships:</span>{" "}
@@ -306,7 +307,7 @@ const dummyContent = [
               Sustainability Initiatives:
             </span>{" "}
             Implement initiatives to ensure long-term sustainability and
-            environmental responsibility of the Fries Coin network.
+            environmental responsibility of the Quokkas Coin network.
           </li>
         </ul>
       </>
