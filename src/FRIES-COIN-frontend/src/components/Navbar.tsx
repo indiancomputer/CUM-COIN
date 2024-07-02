@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
             onClick={() => nav("/")}
           />
           <Link to="/" className="font-rem text-[#ffd543]">
-            $FRYS
+            $QUOKKA
           </Link>
         </div>
         <div className="flex items-center justify-between">
@@ -112,7 +112,7 @@ const Navbar: React.FC = () => {
 
         <div className="flex items-center gap-2 w-full justify-end">
           <a
-            href="https://oc.app/community/k3fk6-gaaaa-aaaar-bav6a-cai/channel/248604123721879774877830511727450740199"
+            href="https://oc.app/community/7t232-dqaaa-aaaar-a2crq-cai/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -120,12 +120,12 @@ const Navbar: React.FC = () => {
               <HiChatAlt2 color="#ffd543" size={24} />
             </div>
           </a>
-          <a href="https://x.com/FriesCoin" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/CumCoinCumCoin" target="_blank" rel="noopener noreferrer">
             <div className="border-[1px] border-[#ffd543] rounded-full w-[30px] h-[30px] flex items-center justify-center p-1">
               <FaTwitter color="#ffd543" size={24} />
             </div>
           </a>
-          <a href="https://t.me/friescoin" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/skibiditoilERC" target="_blank" rel="noopener noreferrer">
             <div className="border-[1px] cursor-pointer border-[#ffd543] rounded-full w-[30px] h-[30px] flex items-center justify-center p-1">
               <FaTelegram color="#ffd543" size={24} />
             </div>
