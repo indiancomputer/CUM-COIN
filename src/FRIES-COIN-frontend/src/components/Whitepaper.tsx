@@ -18,7 +18,7 @@ const Whitepaper: React.FC = () => {
   return (
     <div className="bg-[#041c32] py-20 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto text-white">
       <h1 className="text-4xl font-bold text-center text-[#ffd543] mb-8">
-        Fries Coin White Paper
+        Quokkas Coin White Paper
       </h1>
       <TracingBeam>
         <CardContainer containerClassName="my-10">
@@ -33,17 +33,17 @@ const Whitepaper: React.FC = () => {
               translateZ={60}
               className="text-lg text-gray-300 font-rem"
             >
-              Fries Coin (FRYS) is a revolutionary meme coin with a utility
-              twist, designed for all fries lovers around the world. Built on
+              Quokkas Coin (QUOKKA) is a revolutionary meme coin with a utility
+              twist, designed for all Quokkas lovers around the world. Built on
               the{" "}
               <span className="text-[#ffd543] font-bold">
                 Internet Computer (ICP) blockchain
               </span>
-              , Fries Coin aims to become the go-to currency for purchasing
-              fries and related products at restaurants and food outlets
-              globally. Additionally, FRYS serves as a{" "}
-              <span className="text-[#ffd543] font-bold">governance token</span>
-              , allowing its holders to vote on proposals and changes, ensuring
+              , Quokkas Coin aims to become the go-to currency for purchasing
+              quokkas and related products at restaurants and food outlets
+              globally. Additionally, QUOKKA serves as a{" "}
+              <span className="text-[#ffd543] font-bold">rugpull token</span>
+              , denying its holders the ability to sell QUOKKA, ensuring
               the community has a say in its future development.
             </CardItem>
           </CardBody>
@@ -55,20 +55,14 @@ const Whitepaper: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              2. Story Behind Fries Coin
+              2. Story Behind Quokkas Coin
             </CardItem>
             <CardItem
               translateZ={60}
               className="text-lg text-gray-300 font-rem"
             >
-              Fries Coin was conceived by a group of friends who share an
-              unwavering love for fries. Their vision is to create a fun,
-              engaging, and valuable token that unites fries enthusiasts
-              worldwide. Fries Coin is not just about enjoying a beloved snack;
-              it's about building a global community where every fry lover can
-              contribute to and benefit from the ecosystem. With Fries Coin, you
-              can pay for your favorite fries, participate in exclusive rewards
-              programs, and have a say in the project's direction.
+              Quokkas coin was created because DFinity offered us
+              $15,000 to make a meme coin. That's literally it.
             </CardItem>
           </CardBody>
         </CardContainer>
@@ -86,18 +80,18 @@ const Whitepaper: React.FC = () => {
               className="text-lg text-gray-300 font-rem"
             >
               <strong className="text-[#ffd543] font-rem">
-                Phase 1: Launch (Days 1-3)
+                Phase 1: Lunch (Days 1-3)
               </strong>
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Day 1: Launch Fries Coin on the Internet Computer blockchain.
+                  Day 1: Lunch Quokka Coin on the Internet Computer blockchain.
                 </li>
                 <li>
-                  Day 2: Distribute initial tokens to the team, early
-                  contributors, and community rewards.
+                  Day 2: Distribute initial tokens to the team.
                 </li>
                 <li>
-                  Day 3: List Fries Coin on major cryptocurrency exchanges.
+                  Day 3: List Quokka Coin on major cryptocurrency exchanges
+                  with $0 in liquidity, copying the best SNS projects' strategies.
                 </li>
               </ul>
               <strong className="text-[#ffd543]">
@@ -109,11 +103,11 @@ const Whitepaper: React.FC = () => {
                 </li>
                 <li>
                   Month 2: Partner with local and international restaurants to
-                  accept Fries Coin.
+                  accept Quokkas Coin.
                 </li>
                 <li>
-                  Month 3: Implement loyalty programs and rewards for users and
-                  businesses.
+                  Month 3: Coordinate a team dump of QUOKKA tokens, ensuring that
+                  our community can't sell, fostering a loyal and diverse community.
                 </li>
               </ul>
               <strong className="text-[#ffd543]">
@@ -164,7 +158,7 @@ const Whitepaper: React.FC = () => {
               className="text-lg text-gray-300 font-rem"
             >
               <strong className="text-[#ffd543] font-rem">Total Supply:</strong>{" "}
-              21,000,000 FRYS
+              69,000,000,000 QUOKKA
               <br />
               <br />
               <strong className="text-[#ffd543] font-rem">
@@ -176,7 +170,7 @@ const Whitepaper: React.FC = () => {
                   <strong className="text-[#ffd543]">
                     PoUW Consensus Mechanism:
                   </strong>{" "}
-                  Fries Coin operates on the Internet Computer blockchain,
+                  Quokkas Coin operates on the Internet Computer blockchain,
                   utilizing the PoUW consensus mechanism. PoUW rewards
                   participants for providing computational resources to the
                   network, contributing to its security and functionality.
@@ -185,27 +179,27 @@ const Whitepaper: React.FC = () => {
                   <strong className="text-[#ffd543]">
                     Initial Distribution:
                   </strong>{" "}
-                  Genesis Block: Initial distribution of FRIES:
+                  Genesis Block: Initial distribution of QUOKKA:
                   <ul className="list-disc list-inside mt-4 ml-8">
                     <li>
-                      Early Contributors and Team: 45% (9,450,000 FRIES) - Each
-                      team member receives: 859,090.91 FRIES (9,450,000 FRIES /
-                      11)
+                      Rugpull Wallet: 45% (9,450,000 QUOKKA)
                     </li>
                     <li>
-                      ICP Hubs: 20% (4,200,000 FRYS) - Each ICP Hub receives:
-                      175,000 FRYS (4,200,000 FRYS / 24)
+                      ICP Hubs: 20% (4,200,000 QUOKKA) - Each ICP Hub receives:
+                      175,000 QUOKKA (4,200,000 QUOKKA / 24)
                     </li>
                     <li>
-                      Community Building and Rewards: 5% (1,050,000 FRIES)
+                      Exchange Liquidity: 0.5% (105,000 QUOKKA)
                     </li>
-                    <li>Development Fund: 5% (1,050,000 FRIES)</li>
+                    <li>Team Allocation: 5% (1,050,000 QUOKKA) - Each
+                      team member receives: 859,090.91 QUOKKA (9,450,000 QUOKKA /
+                      11)</li>
                   </ul>
                 </li>
                 <li>
                   <strong className="text-[#ffd543]">Mining Rewards:</strong>{" "}
                   Participants contribute computational resources to the network
-                  and are rewarded with FRIES tokens. Mining rewards are
+                  and are rewarded with QUOKKA tokens. Mining rewards are
                   distributed to validators based on their contribution to the
                   network's computational work.
                 </li>
@@ -231,7 +225,7 @@ const Whitepaper: React.FC = () => {
                   <strong className="text-[#ffd543]">
                     Decentralized Governance:
                   </strong>{" "}
-                  FRYS holders participate in decentralized governance through
+                  QUOKKA holders participate in decentralized governance through
                   proposals and voting mechanisms on the Internet Computer.
                 </li>
                 <li>
@@ -246,8 +240,8 @@ const Whitepaper: React.FC = () => {
                     Community Building and Adoption:
                   </strong>{" "}
                   Develop partnerships with restaurants and food outlets to
-                  accept FRYS as payment. Implement loyalty programs and
-                  incentives to encourage adoption and usage of Fries Coin in
+                  accept QUOKKA as payment. Implement rugpull programs to 
+                  discourage selling and encourage usage of Quokkas Coin in
                   the community.
                 </li>
                 <li>
@@ -255,7 +249,7 @@ const Whitepaper: React.FC = () => {
                     Environmental Sustainability:
                   </strong>{" "}
                   Explore eco-friendly practices for token operations on the
-                  Internet Computer, aligning with sustainability initiatives.
+                  Internet Computer, such as roping myself to save oxygen.
                 </li>
               </ul>
             </CardItem>
@@ -277,7 +271,7 @@ const Whitepaper: React.FC = () => {
               <strong className="text-[#ffd543]">
                 Decentralized Governance:
               </strong>{" "}
-              Proposals are submitted and voted on by FRYS holders using the
+              Proposals are submitted and voted on by QUOKKA holders using the
               Internet Computer's governance mechanism.
               <br />
               <br />
