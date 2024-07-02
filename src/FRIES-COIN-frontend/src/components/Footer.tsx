@@ -20,11 +20,11 @@ const Footer: React.FC = () => {
       {/* Content of the footer */}
       <div className="relative z-10 ">
         <h2 className="text-3xl font-bold sm:text-5xl text-gray-300">
-          Join Our Socials
+          Join Our <s>Cult</s> Community
         </h2>
         <div className="flex items-center gap-4 w-full justify-center">
           <a
-            href="https://oc.app/community/k3fk6-gaaaa-aaaar-bav6a-cai/channel/248604123721879774877830511727450740199"
+            href="https://oc.app/community/7t232-dqaaa-aaaar-a2crq-cai/"
             target="_blank"
           >
             <div className="flex flex-col items-center justify-center p-1">
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
               </h1>
             </div>
           </a>
-          <a href="https://x.com/FriesCoin" target="_blank">
+          <a href="https://x.com/CumCoinCumCoin" target="_blank">
             <div className=" flex flex-col items-center justify-center p-1">
               <FaTwitter color="#ffd543" size={44} />
               <h1 className="md:font-bold text-sm md:text-lg text-gray-300">
@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
             </div>
           </a>
 
-          <a href="https://t.me/friescoin" target="_blank">
+          <a href="https://t.me/skibiditoilERC" target="_blank">
             <div className=" flex flex-col items-center justify-center p-1">
               <FaTelegram color="#ffd543" size={44} />
               <h1 className="md:font-bold text-sm md:text-lg text-gray-300">
@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/company/fries-coin/"
+            href="https://www.linkedin.com/pulse/porn-problem-dan-griffin"
             target="_blank"
           >
             <div className=" flex flex-col items-center justify-center p-1">
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/friescoin?igsh=ejl0Znl1cjR3ZmZh&utm_source=qr"
+            href="https://www.instagram.com/bnb360nsn3"
             target="_blank"
           >
             <div className=" flex flex-col items-center justify-center p-1">
@@ -84,12 +84,12 @@ const Footer: React.FC = () => {
       <p className="mt-2 absolute bottom-0 text-gray-500 text-sm mb-2">
         All rights reserved by{" "}
         <a
-          href="https://dashboard.internetcomputer.org/canister/ezu5v-7qaaa-aaaam-acpbq-cai"
+          href="https://dashboard.internetcomputer.org/canister/4hqeo-mqaaa-aaaan-qmpeq-cai"
           className="text-[#ffd543] font-bold"
         >
-          $FRYS
+          $QUOKKA
         </a>{" "}
-        © 2024 FRIES COIN
+        © 2024 Michael Patrick O'Neill
       </p>
     </footer>
   );
