@@ -26,25 +26,24 @@ const Hero = ({ handleConnectWallet }: HeroProps) => {
         <div className="w-full md:w-1/2 text-center md:text-left">
           <h1 className="text-5xl font-semibold mb-4 text-white font-rem">
             <span className="text-[#ffd543] text5xl font-bold">$FRYS: </span>
-            Join the Crispy Revolution with Fries Coin
+            Join the <s>Retard</s> Crypto Revolution with Fries Coin
           </h1>
           <p className="text-xl mb-6 text-white leading-relaxed font-rem">
-            The world's first meme coin dedicated to fries enthusiasts
-            everywhere.
+            The world's first meme coin without an actual meme.
           </p>
           <div className="grid md:grid-cols-2 grid-cols-1 gap-4">
             <button
               className="bg-[#ffd543] text-[#041c32] font-semibold text-lg font-rem md:text-xl hover:text-white py-2 px-4 rounded-lg hover:bg-transparent border-2 border-[#ffd543] transition duration-300"
               onClick={handleConnectWallet}
             >
-              Buy $FRYS{" "}
+              Buy $QUOKKA{" "}
             </button>
             <a
-              href="https://icpex.org/wallet"
+              href="https://info.icpswap.com/token/details/4hqeo-mqaaa-aaaan-qmpeq-cai"
               target="_blank"
               className="bg-[#041c32] text-[#ffd543] text-center font-semibold text-lg font-rem md:text-xl hover:text-black py-2 px-4 rounded-lg hover:bg-[#ffd543] border-2 border-[#ffd543] transition duration-300"
             >
-              Swap on icpex
+              Swap on ICPSwap
             </a>
           </div>
         </div>
@@ -52,7 +51,7 @@ const Hero = ({ handleConnectWallet }: HeroProps) => {
           <animated.div style={friesAnimation} className="absolute top-0">
             <img
               src={fries}
-              alt="Fries"
+              alt="Quokkas"
               className="w-64 h-64 md:w-80 md:h-80"
             />
           </animated.div>
