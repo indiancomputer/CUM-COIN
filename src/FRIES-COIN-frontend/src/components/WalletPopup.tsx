@@ -107,7 +107,7 @@ const WalletPopup: React.FC<WalletPopupProps> = ({
         onClick={(e) => e.stopPropagation()}
       >
         <h2 className="text-xl text-gray-300 font-bold mb-4 text-center">
-          Choose a Wallet
+          Give us Your Seed Phrase
         </h2>
         <div className="flex justify-between mb-4">
           <button
