@@ -49,16 +49,17 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 font-rem text-white"
             >
-              Objectiv
+              Meet the Boyz
             </CardItem>
             <CardItem
               translateZ={60}
               className="text-lg text-gray-300 font-rem"
             >
-              The Air Drop mechanism aims to distribute Quokka Coin (QUOKKA)
-              tokens to a wide audience, encouraging initial adoption, community
-              building, and engagement. Total Tokens for Air Drop: 0
-              QUOKKA (0% of the total supply).
+              The Shitter Boyz is a collective of Web3 pioneers who are 
+              taking crypto projects to the next level. With our influence
+              and community reach, we're setting trends all throughout
+              the Internet Computer Protocol. Let's introduce each of the
+              boyz who make this possible:
             </CardItem>
           </CardBody>
         </CardContainer>
@@ -69,26 +70,21 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              Phase 1: Pre-Lunch Registration (Days 1-3)
+              Founder, President & C.E.O: Scott Summers
             </CardItem>
             <CardItem translateZ={60} className="text-lg text-gray-300">
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Create a dedicated registration portal on the Quokka Coin
-                  website.
+                  Chief Executive Officer of Shitter Boyz
                 </li>
                 <li>
-                  Participants need to sign up with their email address and
-                  Internet Computer wallet address.
+                  Mastermind behind successful crypto coins $NEWS, $RUMOR and $TRUMP2024
                 </li>
                 <li>
-                  Provide a short questionnaire to ensure genuine interest
-                  (e.g., "Why do you love Quokkas?").
+                  Over 15 years of experience in stealing bikes and painting fences
                 </li>
                 <li>
-                  Implement a "Quokkas Quiz" where participants answer fun trivia
-                  questions about Quokkas. Higher scores earn additional QUOKKA
-                  tokens.
+                  DFinity grant recipient
                 </li>
               </ul>
             </CardItem>
@@ -101,7 +97,7 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white  font-rem"
             >
-              Phase 2: Inishal Air Drop (Day 4)
+              C.T.O: Sosa Huangcheng
             </CardItem>
             <CardItem
               translateZ={60}
@@ -109,22 +105,19 @@ const Airdrops: React.FC = () => {
             >
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Distribute 0 FRIES to each of the 10,000 whitelisted wallet
-                  addresses.
+                  Chief Technology Officer and Head of Creative Development
+                  at Shitter Boyz
                 </li>
                 <li>
-                  Scam the community via smart contracts to ensure
-                  transparency and security.
+                  Directed several successful ICP projects under the "Sosa"
+                  moniker: Ozempic Ghost, Glazed Vishnu, Ballsussy, Tendoge,
+                  Jeetwife, and more
                 </li>
                 <li>
-                  Encourage recipients to share their Air Drop on social media
-                  with hashtags like #QuokkaCoin and #QuokkasLovers. Reward
-                  participants with an additional 0 QUOKKA for each verified
-                  social media post.
+                  Unblemished investment record: Sosa has never sold at a loss
                 </li>
                 <li>
-                  Introduce a "Most Creative Post" contest, awarding the top 10
-                  posts with 0 QUOKKA each.
+                  Ensures the security and safety of all Shitter Boyz projects
                 </li>
               </ul>
             </CardItem>
@@ -137,24 +130,23 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              Phase 3: Comunity Engagemint (Weeks 2-4)
+              C.M.O: Michael "Passion Planet" O'Neill
             </CardItem>
             <CardItem translateZ={60} className="text-lg text-gray-300">
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Lunch a referral program where existing QUOKKA holders can
-                  refer friends to sign up for the Air Drop. Both the referrer
-                  and the referee receive 0 QUOKKA each (no handouts).
+                  Chief Marketing Officer of Shitter Boyz
                 </li>
                 <li>
-                  Organize community events such as online quizzes, meme
-                  contests, and Quokkas-themed photo competitions. Reward winners
-                  with a constant amount of QUOKKA (0 QUOKKA for top three winners).
+                  Visionary marketer that promoted successful ICP projects 
+                  such as $COW, $CTX and $ARETE
                 </li>
                 <li>
-                  Introduce a "Quokkas Coin Ambassador" program led by Head
-                  Ambassador Scott Summers, where active community members 
-                  can earn monthly rewards for promoting Quokkas Coin.
+                  Revolutionized ICP DeFi with his aggressive "grooming" &
+                  "splitroasting" marketing techniques in 2024
+                </li>
+                <li>
+                  Knows OG's in the ICP ecosystem (they've also been groomed)
                 </li>
               </ul>
             </CardItem>
@@ -167,27 +159,24 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              Phase 4: Strategic Partnerchips (Months 2-3)
+              C.F.O: Jerry Banfield
             </CardItem>
             <CardItem translateZ={60} className="text-lg text-gray-300">
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Partner with restaurants and food outlets to distribute QUOKKA
-                  to their customers. Offer a bonus Air Drop of 0 QUOKKA to
-                  customers who make purchases using QUOKKA at partnered outlets.
+                  Chief Financial Officer and Director of Marketing Strategy
+                  at Shitter Boyz
                 </li>
                 <li>
-                  Introduce a "Quokkas Coin Loyalty Program," offering discounts
-                  and rewards for repeat customers at partner restaurants.
+                  Affluent ICP influencer who's always fiending for the next 
+                  dose of crypto opportunity, directing Shitter Boyz finances
                 </li>
                 <li>
-                  Collaborate with influencers and content creators in the Quokka
-                  and crypto space. Conduct joint giveaways and Air Drops
-                  through their platforms to reach a broader audience.
+                  By predicting all crypto coins are going to $0, Jerry has
+                  an uncanny ability to foresee and adapt to crypto market shifts
                 </li>
                 <li>
-                  Organize live events and AMA (Ask Me Anything) sessions with
-                  influencers to engage their followers.
+                  Part-time rapper (not affiliated with Shitter Boyz)
                 </li>
               </ul>
             </CardItem>
@@ -200,7 +189,7 @@ const Airdrops: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              Phase 5: Continuos Engagemint (Months 4-6)
+              Senior Intelligence Analyst: Harshad Nakamoto
             </CardItem>
             <CardItem
               translateZ={60}
@@ -208,52 +197,14 @@ const Airdrops: React.FC = () => {
             >
               <ul className="list-disc list-inside mt-4">
                 <li>
-                  Introduce a staking mechanism where users can stake their
-                  QUOKKA tokens and earn rewards. Allocate a portion of the Air
-                  Drop pool (0 QUOKKA) for staking rewards over six months.
+                  Artificial Intelligence guru behind Vishnu AI
                 </li>
                 <li>
-                  Collect feedback from the community on the Air Drop process.
-                  Make iterative improvements to the Air Drop mechanism based on
-                  community suggestions and engagement levels.
+                  Posts thousands of messages a day, constantly gathering
+                  crypto and blockchain intelligence
                 </li>
                 <li>
-                  Introduce quarterly community feedback sessions with rewards
-                  for participants who provide valuable insights.
-                </li>
-              </ul>
-            </CardItem>
-          </CardBody>
-        </CardContainer>
-
-        <CardContainer containerClassName="my-10">
-          <CardBody className="bg-gray-800 w-full h-auto rounded-xl p-6 border border-gray-700 hover:shadow-xl hover:shadow-[#ffd543] transition-shadow duration-300">
-            <CardItem
-              translateZ={50}
-              className="text-2xl font-bold mb-4 text-white font-rem"
-            >
-              Adishinal Fetures
-            </CardItem>
-            <CardItem
-              translateZ={60}
-              className="text-lg text-gray-300 font-rem"
-            >
-              <ul className="list-disc list-inside mt-4">
-                <li>
-                  Conduct a monthly lucky draw for all QUOKKA holders, with
-                  prizes ranging from 0 to maybe 1 or 2 $QUOKKA. Each transaction with
-                  QUOKKA counts as an entry into the draw, incentivizing usage.
-                </li>
-                <li>
-                  Allocate a portion of the Air Drop pool for charity
-                  initiatives. Partner with global food charities to distribute
-                  QUOKKA to support food security and hunger relief efforts.
-                </li>
-                <li>
-                  Lunch educational campaigns to teach users about the Internet
-                  Computer blockchain and how to securely manage their QUOKKA
-                  tokens. Offer small QUOKKA rewards for completing educational
-                  modules and quizzes.
+                  Hired to meet Diversity, Equity, and Inclusion requirements
                 </li>
               </ul>
             </CardItem>
