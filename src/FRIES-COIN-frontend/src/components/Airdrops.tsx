@@ -40,7 +40,7 @@ const Airdrops: React.FC = () => {
   return (
     <div className="bg-[#041c32] py-20 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto text-white">
       <h1 className="text-4xl font-bold text-center text-[#ffd543] mb-8 font-rem">
-        Airdrops
+        The Boyz
       </h1>
       <TracingBeam>
         <CardContainer containerClassName="my-10">
