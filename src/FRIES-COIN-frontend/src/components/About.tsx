@@ -10,46 +10,38 @@ const About: React.FC<BuyProps> = ({ handleConnectWallet }) => {
     <div className="py-20 px-4 sm:px-6 lg:px-8">
       <h2 className="text-3xl font-bold text-[#fff] text-center font-rem">
         About{" "}
-        <span className="text-[#ffd543] font-rem font-extrabold">$QUOKKA</span>
-        Coin
+        <span className="text-[#ffd543] font-rem font-extrabold">Shitter </span>
+        Boyz
       </h2>
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center">
         <div className="w-full md:w-1/2 pr-8">
           <div className="mt-10">
             <h3 className="text-2xl font-bold text-gray-500 font-rem">
-              Are Story
+              Mission
             </h3>
             <p className="mt-4 text-lg text-gray-300 font-rem">
-              Quokka Coin began with a simple yet compelling idea: to unite Quokkas
-              enthusiasts worldwide through a unique cryptocurrency. As Quokkas
-              lovers ourselves, we recognized the need for a community where
-              people could share their love for Quokkas.
+              The Shitter Boyz are a global collective of visionary blockchain
+              enthusiasts, coming together to pioneer the future of Web3
+              tokens and applications on the Internet Computer Protocol.
             </p>
             <h4 className="mt-6 text-xl font-semibold text-gray-500 font-rem">
-              Devlopment
+              Development
             </h4>
             <p className="mt-2 text-lg text-gray-300 font-rem">
-              Our team comprises seasoned developers, OGs in the ecosystem, blockchain experts, and
-              Quokkas aficionados. We leveraged the Internet Computer Protocol
-              (ICP) to build a secure, scalable, and decentralized platform that
-              would serve as the backbone of Quokkas Coin. ICP's innovative
-              technology ensures that our transactions are fast, reliable, and
-              environmentally friendly.
+              Our developmental focus is on pushing the boundaries of what is possible
+              in the decentralized ICP ecosystem, leveraging our diverse expertise
+              to create groundbreaking projects that drive the industry forward.
             </p>
             <h4 className="mt-6 text-xl font-semibold text-gray-500 font-rem">
-              Vison
+              Vision
             </h4>
             <p className="mt-2 text-lg text-gray-300 font-rem">
-              We aim to become the go-to digital currency for all things Quokkas.
-              Whether you're buying Quokkas at your favorite restaurant or tipping
-              a great Quokkas recipe online, Quokkas Coin will be your currency of
-              choice. Join us in celebrating the crispy, golden goodness of
-              Quokkas with Quokkas Coin.
+              You will make money in the Shitter Boyz ecosystem and be happy.
             </p>
           </div>
         </div>
         <div className="w-full md:w-1/2 flex justify-center">
-          <img src={aboutImage} alt="Quokkas" className="w-80 h-auto" />
+          <img src={aboutImage} alt="Shitterz" className="w-80 h-auto" />
         </div>
       </div>
     </div>
