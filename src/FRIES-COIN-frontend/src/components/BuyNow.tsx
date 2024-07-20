@@ -14,14 +14,14 @@ const Buy: React.FC<BuyProps> = ({ handleConnectWallet }) => {
           translateZ="50"
           className="text-xl font-bold font-rem text-white"
         >
-          Join the <span className="text-[#ffd543]">$QUOKKA MOVEMENT</span>
+          Join the <span className="text-[#ffd543]">$BOYZ</span>
         </CardItem>
         <CardItem
           as="p"
           translateZ="60"
           className="text-gray-300 text-sm max-w-sm mt-2"
         >
-          Buy $QUOKKA token and get access to exclusive features and benefits.
+          Get exclusive access to ICP's greatest shitters
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <img
@@ -51,7 +51,7 @@ const Buy: React.FC<BuyProps> = ({ handleConnectWallet }) => {
               href="https://app.icpswap.com/swap?input=ryjl3-tyaaa-aaaaa-aaaba-cai&output=4hqeo-mqaaa-aaaan-qmpeq-cai"
               target="_blank"
             >
-              Swap $QUOKKA
+              Swap $BOYZ
             </a>
           </CardItem>
         </div>
