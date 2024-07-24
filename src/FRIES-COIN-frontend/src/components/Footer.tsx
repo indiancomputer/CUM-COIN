@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
               </h1>
             </div>
           </a>
-          <a href="https://x.com/CumCoinCumCoin" target="_blank">
+          <a href="https://x.com/ICShitterBoyz" target="_blank">
             <div className=" flex flex-col items-center justify-center p-1">
               <FaTwitter color="#ffd543" size={44} />
               <h1 className="md:font-bold text-sm md:text-lg text-gray-300">
@@ -87,7 +87,7 @@ const Footer: React.FC = () => {
           href="https://dashboard.internetcomputer.org/canister/4hqeo-mqaaa-aaaan-qmpeq-cai"
           className="text-[#ffd543] font-bold"
         >
-          $QUOKKA
+          SHITTER BOYZ
         </a>{" "}
         © 2024 Michael Patrick O'Neill
       </p>
