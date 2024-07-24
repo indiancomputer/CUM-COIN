@@ -34,13 +34,13 @@ const Features: React.FC = () => {
           variants={fadeInUp}
           className="text-4xl font-bold text-center text-[#ffd543] mb-8 font-rem"
         >
-          Unique Features of Quokkas Coin
+          Unique Features of the Shitter Boyz Ecosystem
         </motion.h1>
         <motion.p
           variants={fadeInUp}
           className="text-lg text-gray-300 font-rem"
         >
-          Discover the unique features that make Quokkas Coin stand out in the
+          Discover the unique features that make Shitter Boyz projects stand out in the
           cryptocurrency space.
         </motion.p>
       </motion.div>
@@ -78,10 +78,10 @@ const Features: React.FC = () => {
                     className="text-lg text-gray-300 font-rem"
                   >
                     <span className="text-[#ffd543] font-bold font-rem">
-                      QUOKKA
+                      SHITTER BOYZ
                     </span>{" "}
-                    holders participate in decentralized governance through
-                    the Indian Computer's alien technology.
+                    participate in decentralized governance through
+                    building on the Internet Computer Protocol.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -94,7 +94,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Scalablity and Securrty
+                    Scalablity and Security
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -102,10 +102,10 @@ const Features: React.FC = () => {
                   >
                     Leveraging the{" "}
                     <span className="text-[#ffd543] font-bold">
-                      Indian Computer's
+                      Internet Computer's
                     </span>{" "}
-                    scalabelity and security features ensure effishent and
-                    secure token operashins.
+                    scalability and privacy features ensure efficient,
+                    private, and anonymous token operations.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -118,18 +118,18 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Comnity Building and Adopting
+                    Community Building and Adopting
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Develop partnerships with restaurants and food outlets to
+                    Develop partnerships with Web3 communities and memecoins to
                     accept{" "}
-                    <span className="text-[#ffd543] font-bold">Quokka</span> as
-                    payment when buying Quokkas. Implement loyalty programs and 
-                    incentives to encourage adoption and usage of Fries Coin in 
-                    the community.
+                    <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span>
+                    partnerships and collaborations. Implement loyalty programs and 
+                    incentives to encourage loyalty to the <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span> 
+                    brand and initiative.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -142,17 +142,17 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Envirmental Sustainablity
+                    World-Class Crypto Projects
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Explore eco-friendly practices for token operations on the{" "}
+                    Explore innovative token operations and startups on the{" "}
                     <span className="text-[#ffd543] font-bold">
-                      Indian Computer
+                      Internet Computer
                     </span>
-                    , aligning with sustainabelity inishiatives.
+                    , setting trends throughout the ecosystem.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -170,7 +170,7 @@ const Features: React.FC = () => {
             variants={fadeInUp}
             className="text-3xl font-bold text-center text-[#ffd543] mb-8 font-rem"
           >
-            Devlopment Features
+            Development Features
           </motion.h2>
           <motion.div
             initial="hidden"
@@ -185,16 +185,16 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Devloper Integrations
+                    Developer Integrations
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Integrate Quokka Coin with{" "}
+                    Integrate Shitter Boyz with{" "}
                     <span className="text-[#ffd543] font-bold">DFINITY's</span>{" "}
-                    Indian Computer Protocol for seamless devlopment and
-                    deployment of decentralized applicashins.
+                    Internet Computer Protocol for seamless development and
+                    deployment of capital acquisition processes.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -212,7 +212,7 @@ const Features: React.FC = () => {
             variants={fadeInUp}
             className="text-3xl font-bold text-center text-[#ffd543] mb-8 font-rem"
           >
-            Futur Featurs
+            Future Features
           </motion.h2>
           <motion.div
             initial="hidden"
@@ -234,8 +234,8 @@ const Features: React.FC = () => {
                     className="text-lg text-gray-300 font-rem"
                   >
                     Launch an NFT marketplace where users can buy but not sell{" "}
-                    <span className="text-[#ffd543] font-bold">QUOKKAS</span>
-                    -themed NFTs, promoting community engagement and exit liquidity.
+                    <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span>
+                    NFTs, promoting team member compensation and exit liquidity.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -248,7 +248,7 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    DeFi Integrashins
+                    DeFi Integrations
                   </CardItem>
                   <CardItem
                     translateZ={60}
@@ -256,7 +256,7 @@ const Features: React.FC = () => {
                   >
                     Integrate with decentralised finance (DeFi) platforms to
                     allow us to rugpull all{" "}
-                    <span className="text-[#ffd543] font-bold">QUOKKA</span>{" "}
+                    <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span>{" "}
                     tokens.
                   </CardItem>
                 </CardBody>
@@ -278,8 +278,8 @@ const Features: React.FC = () => {
                   >
                     Ensure cross-chain compatibility with other blockchains like
                     Ethereum and Binance Smart Chain, enabling{" "}
-                    <span className="text-[#ffd543] font-bold">QUOKKA</span> to
-                    fade into crypto obscurity.
+                    <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span> to
+                    suck liquidity out of other chains, into the Internet Computer ecosystem.
                   </CardItem>
                 </CardBody>
               </CardContainer>
@@ -292,16 +292,16 @@ const Features: React.FC = () => {
                     translateZ={50}
                     className="text-2xl font-bold mb-4 text-white font-rem"
                   >
-                    Advanced Anal ytics
+                    Advanced Analytics
                   </CardItem>
                   <CardItem
                     translateZ={60}
                     className="text-lg text-gray-300 font-rem"
                   >
-                    Provide advanced analytics and insights for users and
-                    developers to track the performance and usage of{" "}
-                    <span className="text-[#ffd543] font-bold">QUOKKA</span>{" "}
-                    tokens.
+                    Provide advanced analytics and insights for
+                    <span className="text-[#ffd543] font-bold">SHITTER BOYZ</span>{" "}
+                    team members and developers to track the momentum and usage of
+                    our ecosystem's tokens.
                   </CardItem>
                 </CardBody>
               </CardContainer>
