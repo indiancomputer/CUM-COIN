@@ -23,81 +23,83 @@ const CodeBlock: React.FC<{ code: string }> = ({ code }) => {
 };
 
 const sections = [
-  "Getting Started",
-  "API Reference",
+  "Joining The Boyz",
+  "Token Launch",
   "Smart Contract Development",
 ] as const;
 
 type Section = (typeof sections)[number];
 
 const sectionContent: Record<Section, JSX.Element> = {
-  "Getting Started": (
+  "Joining The Boyz": (
     <div className="font-rem">
-      <h1 className="text-3xl font-bold mb-4">Getting Started</h1>
+      <h1 className="text-3xl font-bold mb-4">Joining The Boyz</h1>
       <p className="mb-4">
-        To get started, you'll need to set up your development environment.
-        Follow the steps below to get everything up and running.
+        To get started as a Shitter Boy, you'll need to first present 
+        your talents to the Boyz before applying. Follow the steps 
+        below to get your application up and running.
       </p>
       <h2 className="text-2xl font-semibold mb-2">Prerequisites</h2>
       <ul className="list-disc list-inside mb-4">
-        <li>Node.js version 18^+</li>
-        <li>npm or yarn</li>
-        <li>dfx (DFINITY's Canister SDK) version 20^+</li>
+        <li>Extensive experience with C++, Rust, or Java</li>
+        <li>Master's Degree in a Business Discipline or Computer Engineering</li>
+        <li>5-7 years experience of leadership position in Cryptocurrency/Blockchain Administration</li>
       </ul>
-      <h2 className="text-2xl font-semibold mb-2">Installation</h2>
+      <h2 className="text-2xl font-semibold mb-2">Applying</h2>
       <p className="mb-2">
-        First, clone the repository and install the dependencies:
+        First, navigate to the following website and fill out the form:
       </p>
       <CodeBlock
-        code={`git clone https://github.com/FRIES-COIN/FRIES-COIN.git\ncd FRIES-COIN\nnpm install`}
+        code={`https://forms.gle/MAxoiba5FR2mScHc9`}
       />
-      <h2 className="text-2xl font-semibold mb-2">Running the Project</h2>
+      <h2 className="text-2xl font-semibold mb-2">Accepting Your Position</h2>
       <p className="mb-2">
-        To run the project locally, use the following command:
+        To formally accept your employment upon successful application,
+        follow-up via Direct Message at:
       </p>
       <CodeBlock
-        code={`dfx start --background --clean\ndfx deploy\nnpm start`}
+        code={`https://x.com/icshitterboyz`}
       />
     </div>
   ),
-  "API Reference": (
+  "Token Launch": (
     <div className="font-rem">
-      <h1 className="text-3xl font-bold mb-4">API Reference</h1>
-      <h2 className="text-2xl font-semibold mb-2">Get Balance</h2>
-      <CodeBlock code={`GET /api/balance`} />
+      <h1 className="text-3xl font-bold mb-4">Token Launch</h1>
+      <h2 className="text-2xl font-semibold mb-2">Joining the Private Telegram</h2>
+      <CodeBlock code={`JOIN https://t.me/ShitterBoyzPRIV`} />
       <p className="mb-2">
         <strong>Parameters:</strong>
       </p>
       <ul className="list-disc list-inside mb-4">
         <li>
-          <code>address</code> (string): The address of the wallet.
+          <code>Birthday</code>: The birthday of your Telegram account must be earlier than 01/01/1920.
         </li>
       </ul>
       <p className="mb-2">
         <strong>Response:</strong>
       </p>
-      <CodeBlock code={`{\n  "balance": 1000\n}`} />
-      <h2 className="text-2xl font-semibold mb-2">Transfer Funds</h2>
-      <CodeBlock code={`POST /api/transfer`} />
+      <CodeBlock code={`JOIN GROUP`} />
+      <h2 className="text-2xl font-semibold mb-2">Shitter Boyz Token Launcher</h2>
+      <CodeBlock code={`JOIN https://[redacted] (Pinned message in Shitter Boyz PRIVATE Chat)`} />
       <p className="mb-2">
         <strong>Parameters:</strong>
       </p>
       <ul className="list-disc list-inside mb-4">
         <li>
-          <code>from</code> (string): The sender's address.
+          <code>Username</code>: The user's username must be anonymized before launching tokens.
         </li>
         <li>
-          <code>to</code> (string): The recipient's address.
+          <code>Token Ticker</code>: The ticker symbol of your desired token.
         </li>
         <li>
-          <code>amount</code> (number): The amount to transfer.
+          <code>Token Logo</code>: The logo of your desired token.
         </li>
       </ul>
       <p className="mb-2">
         <strong>Response:</strong>
       </p>
       <CodeBlock
-        code={`{\n  "success": true,\n  "transactionId": "abc123"\n}`}
+        code={`Deployed canisters.`}
       />
     </div>
   ),
@@ -105,7 +107,7 @@ const sectionContent: Record<Section, JSX.Element> = {
     <div className="font-rem">
       <h1 className="text-3xl font-bold mb-4">Smart Contract Development</h1>
       <p className="mb-4">
-        To develop smart contracts for Fries Coin, follow the guidelines below.
+        To develop smart contracts for Shitter Boyz, follow the guidelines below.
       </p>
       <h2 className="text-2xl font-semibold mb-2">Writing a Contract</h2>
       <CodeBlock
@@ -116,7 +118,7 @@ const sectionContent: Record<Section, JSX.Element> = {
 };
 
 const DeveloperDocs: React.FC = () => {
-  const [activeSection, setActiveSection] = useState<Section>("Getting Started");
+  const [activeSection, setActiveSection] = useState<Section>("Joining The Boyz");
 
   const renderSectionContent = (section: Section) => {
     return sectionContent[section];
