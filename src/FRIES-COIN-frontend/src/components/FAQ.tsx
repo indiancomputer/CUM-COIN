@@ -2,11 +2,11 @@ import { PlaceholdersAndVanishInput } from "../components/ui/placeholders-and-va
 
 export default function FAQ() {
   const placeholders = [
-    "Why should I buy $QUOKKA?",
-    "What is a meme coin?",
+    "Why should I buy $BOYZ?",
+    "Who is behind the Shitter Boyz?",
     "Am I getting scammed right now?",
-    "Does $QUOKKA even have a meme?",
-    "Will the devs do something???",
+    "Are you guys launching Pump-&-Dump tokens?",
+    "How do I join the Cabal?",
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -20,7 +20,7 @@ export default function FAQ() {
     <div className="h-[40rem] flex flex-col justify-center  items-center px-4">
       <h2 className="mb-10 sm:mb-20 text-xl text-center sm:text-5xl text-gray-100">
         Ask anything about{" "}
-        <span className="text-[#ffd543] font-semibold">$QUOKKA</span>
+        <span className="text-[#ffd543] font-semibold">SHITTER BOYZ</span>
       </h2>
       <PlaceholdersAndVanishInput
         placeholders={placeholders}
