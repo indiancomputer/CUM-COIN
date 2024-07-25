@@ -25,18 +25,18 @@ const Hero = ({ handleConnectWallet }: HeroProps) => {
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between p-4">
         <div className="w-full md:w-1/2 text-center md:text-left">
           <h1 className="text-5xl font-semibold mb-4 text-white font-rem">
-            <span className="text-[#ffd543] text5xl font-bold">$FRYS: </span>
-            Join the <s>Retard</s> Crypto Revolution with Fries Coin
+            <span className="text-[#ffd543] text5xl font-bold">SHITTER BOYZ: </span>
+            The biggest <s>Shit</s>coin developers on the Internet Computer
           </h1>
           <p className="text-xl mb-6 text-white leading-relaxed font-rem">
-            The world's first meme coin without an actual meme.
+            Launching crypto tokens with an unblemished track record.
           </p>
           <div className="grid md:grid-cols-2 grid-cols-1 gap-4">
             <button
               className="bg-[#ffd543] text-[#041c32] font-semibold text-lg font-rem md:text-xl hover:text-white py-2 px-4 rounded-lg hover:bg-transparent border-2 border-[#ffd543] transition duration-300"
               onClick={handleConnectWallet}
             >
-              Buy $QUOKKA{" "}
+              Buy $BOYZ{" "}
             </button>
             <a
               href="https://info.icpswap.com/token/details/4hqeo-mqaaa-aaaan-qmpeq-cai"
@@ -51,7 +51,7 @@ const Hero = ({ handleConnectWallet }: HeroProps) => {
           <animated.div style={friesAnimation} className="absolute top-0">
             <img
               src={fries}
-              alt="Quokkas"
+              alt="Nut"
               className="w-64 h-64 md:w-80 md:h-80"
             />
           </animated.div>
