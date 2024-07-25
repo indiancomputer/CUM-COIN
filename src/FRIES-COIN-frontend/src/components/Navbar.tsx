@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
               to="/airdrops"
               onClick={() => nav("/airdrops")}
             >
-              AIRDROPS
+              About
             </Link>
 
             <div className="bg-gray-300 h-[1px] w-full"></div>
@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
               to="/features"
               onClick={() => nav("/features")}
             >
-              FEATURES
+              Features
             </Link>
 
             <div className="bg-gray-300 h-[1px] w-full"></div>
@@ -55,7 +55,7 @@ const Navbar: React.FC = () => {
               to="/whitepaper"
               onClick={() => nav("/whitepaper")}
             >
-              WHITEPAPER
+              Whitepaper
             </Link>
 
             <div className="bg-gray-300 h-[1px] w-full"></div>
@@ -64,7 +64,7 @@ const Navbar: React.FC = () => {
               to="/developer-docs"
               onClick={() => nav("/developer-docs")}
             >
-              DOCS
+              Docs
             </Link>
           </div>
         </div>
@@ -87,7 +87,7 @@ const Navbar: React.FC = () => {
               className="mx-4 text-gray-300 font-rem font-semibold hover:text-[#ffd543] ease-in duration-150 cursor-pointer"
               to="/airdrops"
             >
-              AirDrops
+              About
             </Link>
             <Link
               className="mx-4 text-gray-300 font-rem font-semibold hover:text-[#ffd543] ease-in duration-150 cursor-pointer"
