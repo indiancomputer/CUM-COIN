@@ -18,7 +18,7 @@ const Whitepaper: React.FC = () => {
   return (
     <div className="bg-[#041c32] py-20 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto text-white">
       <h1 className="text-4xl font-bold text-center text-[#ffd543] mb-8">
-        Quokkas Coin White Paper
+        White Paper
       </h1>
       <TracingBeam>
         <CardContainer containerClassName="my-10">
@@ -27,24 +27,24 @@ const Whitepaper: React.FC = () => {
               translateZ={50}
               className="text-2xl font-bold mb-4 text-white font-rem"
             >
-              1. Detailed Description
+              1. Mission Statement
             </CardItem>
             <CardItem
               translateZ={60}
               className="text-lg text-gray-300 font-rem"
             >
-              Quokkas Coin (QUOKKA) is a revolutionary meme coin with a utility
-              twist, designed for all Quokkas lovers around the world. Built on
+              Famous Gang ($GANG) is a revolutionary memecoin and DAO governance
+              token, pioneered by only the most famous ICPissers. Built on
               the{" "}
               <span className="text-[#ffd543] font-bold">
-                Internet Computer (ICP) blockchain
+                Internet Computer Protocol (ICP) blockchain
               </span>
-              , Quokkas Coin aims to become the go-to currency for purchasing
-              quokkas and related products at restaurants and food outlets
-              globally. Additionally, QUOKKA serves as a{" "}
-              <span className="text-[#ffd543] font-bold">rugpull token</span>
-              , denying its holders the ability to sell QUOKKA, ensuring
-              the community has a say in its future development.
+              , Famous Gang aims to become a blockchain-backed social club and
+              blank canvas DAO.
+              Additionally, $GANG serves as an{" "}
+              <span className="text-[#ffd543] font-bold">ICRC-1 governance token</span>
+              , providing investors the ability to buy voting power, ensuring
+              the community drives the future development of Famous Gang.
             </CardItem>
           </CardBody>
         </CardContainer>
@@ -80,60 +80,64 @@ const Whitepaper: React.FC = () => {
               className="text-lg text-gray-300 font-rem"
             >
               <strong className="text-[#ffd543] font-rem">
-                Phase 1: Lunch (Days 1-3)
+                Phase 1: Pre-Launch (Days 1-3)
               </strong>
               <ul className="list-disc list-inside mt-4 font-rem">
                 <li>
-                  Day 1: Lunch Quokka Coin on the Internet Computer blockchain.
+                  Launch Famous Gang social medias, connecting with the ICP's
+                  most famous.
                 </li>
                 <li>
-                  Day 2: Distribute initial tokens to the team.
+                  Create NFT collection, which will act as a gate to Famous Gang
+                  social media chatrooms.
                 </li>
                 <li>
-                  Day 3: List Quokka Coin on major cryptocurrency exchanges
-                  with $0 in liquidity, copying the best SNS projects' strategies.
+                  Day 3: Create NFT airdrop list, rewarding early adopters with
+                  their entry ticket into the Famous Gang.
                 </li>
               </ul>
               <strong className="text-[#ffd543]">
-                Phase 2: Community Building (Months 1-3)
+                Phase 2: Launch (Months 1-3)
               </strong>
               <ul className="list-disc list-inside mt-4">
                 <li>
-                  Month 1: Launch marketing campaigns and social media presence.
+                  Launch NFT collection, marketing their utility in future governance
+                  and Famous Gang-only chatrooms.
                 </li>
                 <li>
-                  Month 2: Partner with local and international restaurants to
-                  accept Quokkas Coin.
+                  Launch social media groups, with priority chatrooms gated by the
+                  NFT collection.
                 </li>
                 <li>
-                  Month 3: Coordinate a team dump of QUOKKA tokens, ensuring that
-                  our community can't sell, fostering a loyal and diverse community.
+                  Launch $GANG token, the official memecoin and governance token of
+                  the Famous Gang initiative.
                 </li>
               </ul>
               <strong className="text-[#ffd543]">
                 Phase 3: Governance and Development (Months 4-6)
               </strong>
               <ul className="list-disc list-inside mt-4">
-                <li>Month 4: Establish decentralized governance structure.</li>
+                <li>Create utility for the $GANG token, such as
+                    chatroom airdrops, LP fee airdrops, and more.</li>
                 <li>
-                  Month 5: Introduce voting mechanisms for proposals and
-                  upgrades.
+                  Adopt a DAO framework for Famous Gang, using
+                  $GANG as its governance token.
                 </li>
                 <li>
-                  Month 6: Develop and release additional features based on
-                  community feedback.
+                  Offer a decentralization sale upon the launch of
+                  Famous GANG (Grassroots Autonomous Noncentralized Group).
                 </li>
               </ul>
               <strong className="text-[#ffd543]">
-                Phase 4: Expansion and Sustainability (Months 7-12)
+                Phase 4: Community Takeover (Months 7-12)
               </strong>
               <ul className="list-disc list-inside mt-4">
                 <li>
-                  Month 7: Expand partnerships to more restaurants and food
-                  chains globally.
+                  Allow the community to shape the future of Famous GANG using
+                  DAO governance proposals.
                 </li>
                 <li>
-                  Month 8: Launch eco-friendly initiatives funded by transaction
+                  Build fame within the ICP and crypto ecosystem.
                   fees.
                 </li>
                 <li>
